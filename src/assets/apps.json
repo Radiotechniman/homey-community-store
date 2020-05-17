@@ -33,15 +33,15 @@
   },
   "com.roco.pipup": {
     "repo": "https://github.com/Rocodamelshe/com.roco.pipup",
-    "json" :"" 
+    "json" :"https://raw.githubusercontent.com/Rocodamelshe/com.roco.pipup/master/app.json" 
   },
   "com.roco.slideshow": {
     "repo": "https://github.com/Rocodamelshe/com.roco.slideshow",
-    "json" :"" 
+    "json" :"https://raw.githubusercontent.com/Rocodamelshe/com.roco.slideshow/master/app.json" 
   },
   "com.lightwaverf.smartseries": {
     "repo": "https://github.com/AdyRock/com.lightwaverf.smartseries",
-    "json" :"" 
+    "json" :"https://raw.githubusercontent.com/AdyRock/com.lightwaverf.smartseries/master/app.json" 
   },
   "com.weatherunderground": {
     "repo": "https://github.com/AdyRock/com.weatherunderground",
@@ -85,7 +85,7 @@
   },
   "ch.philippewechsler.hue": {
     "repo": "https://github.com/MadMonkey87/Homey.HueExtensions",
-    "json" :"" 
+    "json" :"https://raw.githubusercontent.com/MadMonkey87/Homey.HueExtensions/master/app.json" 
   },
   "cn.kaiterra": {
     "repo": "https://github.com/MadMonkey87/homey.kaiterra",
