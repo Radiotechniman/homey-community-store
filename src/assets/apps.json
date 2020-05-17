@@ -1,77 +1,102 @@
 {
   "com.maxvandelaar.webos-plus": {
-    "repo": "https://github.com/MaxvandeLaar/homey-webos-plus"
+    "repo": "https://github.com/MaxvandeLaar/homey-webos-plus",
+    "json" :"https://raw.githubusercontent.com/MaxvandeLaar/homey-webos-plus/master/app.json" 
   },
   "com.roco.ancilla": {
-    "repo": "https://github.com/Rocodamelshe/com.roco.ancilla#alpha"
+    "repo": "https://github.com/Rocodamelshe/com.roco.ancilla#alpha",
+    "json" :"https://raw.githubusercontent.com/Rocodamelshe/com.roco.ancilla/alpha/app.json" 
   },
   "com.svipler.athom.sonos-say": {
-    "repo": "https://github.com/ludvigaldrin/com.svipler.athom.sonos-say"
+    "repo": "https://github.com/ludvigaldrin/com.svipler.athom.sonos-say",
+    "json" :"https://raw.githubusercontent.com/ludvigaldrin/com.svipler.athom.sonos-say/master/app.json" 
   },
   "com.neo": {
-    "repo": "https://github.com/mruiter/com.neo"
+    "repo": "https://github.com/mruiter/com.neo",
+    "json" :"https://raw.githubusercontent.com/mruiter/com.neo/master/app.json" 
   },
   "com.soundunited.heos": {
-    "repo": "https://github.com/nlrb/com.soundunited.heos"
+    "repo": "https://github.com/nlrb/com.soundunited.heos",
+    "json" :"https://raw.githubusercontent.com/nlrb/com.soundunited.heos/master/app.json" 
   },
   "io.homeassistant": {
-    "repo": "https://github.com/rogro82/io.homeassistant"
+    "repo": "https://github.com/rogro82/io.homeassistant",
+    "json" :"https://raw.githubusercontent.com/rogro82/io.homeassistant/master/app.json" 
   },
   "ru.notabene.deconz": {
-    "repo": "https://github.com/fantomnotabene/HomeyCONZ"
+    "repo": "https://github.com/fantomnotabene/HomeyCONZ",
+    "json" :"https://raw.githubusercontent.com/fantomnotabene/HomeyCONZ/master/app.json" 
   },
   "nuki.homey": {
-    "repo": "https://github.com/jghaanstra/nuki.homey"
+    "repo": "https://github.com/jghaanstra/nuki.homey",
+    "json" :"https://raw.githubusercontent.com/jghaanstra/nuki.homey/master/app.json" 
   },
   "com.roco.pipup": {
-    "repo": "https://github.com/Rocodamelshe/com.roco.pipup"
+    "repo": "https://github.com/Rocodamelshe/com.roco.pipup",
+    "json" :"" 
   },
   "com.roco.slideshow": {
-    "repo": "https://github.com/Rocodamelshe/com.roco.slideshow"
+    "repo": "https://github.com/Rocodamelshe/com.roco.slideshow",
+    "json" :"" 
   },
   "com.lightwaverf.smartseries": {
-    "repo": "https://github.com/AdyRock/com.lightwaverf.smartseries"
+    "repo": "https://github.com/AdyRock/com.lightwaverf.smartseries",
+    "json" :"" 
   },
   "com.weatherunderground": {
-    "repo": "https://github.com/AdyRock/com.weatherunderground"
+    "repo": "https://github.com/AdyRock/com.weatherunderground",
+    "json" :"" 
   },
   "com.soma.connect": {
-    "repo": "https://github.com/AdyRock/com.soma.connect"
+    "repo": "https://github.com/AdyRock/com.soma.connect",
+    "json" :"" 
   },
   "com.uc.heimdall": {
-    "repo": "https://github.com/daneedk/com.uc.heimdall"
+    "repo": "https://github.com/daneedk/com.uc.heimdall",
+    "json" :"" 
   },
   "nl.nefit.easy": {
-    "repo": "https://github.com/robertklep/nl.nefit.easy/"
+    "repo": "https://github.com/robertklep/nl.nefit.easy/",
+    "json" :"" 
   },
   "name.klep.transitions": {
-    "repo": "https://github.com/robertklep/name.klep.transitions/"
+    "repo": "https://github.com/robertklep/name.klep.transitions/",
+    "json" :"" 
   },
   "name.klep.flow-event-bus": {
-    "repo": "https://github.com/robertklep/name.klep.flow-event-bus/"
+    "repo": "https://github.com/robertklep/name.klep.flow-event-bus/",
+    "json" :"" 
   },
   "name.klep.sonoff": {
-    "repo": "https://github.com/robertklep/name.klep.sonoff/"
+    "repo": "https://github.com/robertklep/name.klep.sonoff/",
+    "json" :"" 
   },
   "com.swttt.homekit": {
-    "repo": "https://github.com/swttt/com.swttt.homekit/"
+    "repo": "https://github.com/swttt/com.swttt.homekit/",
+    "json" :"" 
   },
   "org.telegram.api.bot": {
-    "repo": "https://github.com/jordenc/org.telegram.api.bot"
+    "repo": "https://github.com/jordenc/org.telegram.api.bot",
+    "json" :"" 
   },
   "image.grabber": {
-    "repo": "https://github.com/jordenc/image.grabber"
+    "repo": "https://github.com/jordenc/image.grabber",
+    "json" :"" 
   },
   "ch.philippewechsler.hue": {
-    "repo": "https://github.com/MadMonkey87/Homey.HueExtensions"
+    "repo": "https://github.com/MadMonkey87/Homey.HueExtensions",
+    "json" :"" 
   },
   "cn.kaiterra": {
-    "repo": "https://github.com/MadMonkey87/homey.kaiterra"
+    "repo": "https://github.com/MadMonkey87/homey.kaiterra",
+    "json" :"" 
   },
   "de.dresden-elektronik.deconz": {
-    "repo": "https://github.com/MadMonkey87/HomeyCONZ"
+    "repo": "https://github.com/MadMonkey87/HomeyCONZ",
+    "json" :"" 
   },
   "com.bunq": {
-    "repo": "https://github.com/WeeJeWel/com.bunq"
+    "repo": "https://github.com/WeeJeWel/com.bunq",
+    "json" :"" 
   }
 }
